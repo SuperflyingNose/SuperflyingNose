@@ -10,7 +10,7 @@ namespace lab5Math
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Change to comment");
+            Console.WriteLine("Change to commentary");
             int bestI = 0;
             int bestJ = 0;
             double bestPogr = 0;
